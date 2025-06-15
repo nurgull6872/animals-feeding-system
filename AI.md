@@ -309,7 +309,7 @@ Bootstrap, form elemanlarını standartlaştırmak ve hızlıca şık, kullanıc
 
 İstersen, bu örnekleri içeren tam bir form örneği de hazırlayabilirim!
 
-**prompt5:ben projemde css linki ve  bootsrap kütüphanesi kullanarak stilini sağlayacağım bunu nasıl yapmam lazım **
+**prompt5:ben projemde css linki ve  bootsrap kütüphanesi kullanarak stilini sağlayacağım bunu nasıl yapmam lazım**
 
 Projende Bootstrap CSS kütüphanesini kullanarak stil vermek için yapman gerekenler şunlar:
 
