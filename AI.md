@@ -1,7 +1,7 @@
 **projem için kullandığım yapay zeka promptlarım ve aldığım cevaplar**
 
 
-**prompt1:veritabanını bağlarken verilebilcek hataları da önlemek için nasıl bir yapı kullanmak lazım **
+**prompt1:veritabanını bağlarken verilebilcek hataları da önlemek için nasıl bir yapı kullanmak lazım**
 
 Veritabanı bağlantısında oluşabilecek hataları önlemek ve yönetmek için en iyi yöntem **try-catch blokları** ile **hata yönetimi** yapmaktır. Böylece, bağlantı sırasında bir sorun olursa program çökmez, hatayı yakalar ve uygun bir mesaj gösterebilir veya başka bir işlem yapabilir.
 
